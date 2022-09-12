@@ -1,0 +1,14 @@
+C:\Users\SnsvV\source\repos\Ekspedisi\Ekspedisi\bin\Debug\netcoreapp3.1\Ekspedisi.exe
+C:\Users\SnsvV\source\repos\Ekspedisi\Ekspedisi\bin\Debug\netcoreapp3.1\Ekspedisi.deps.json
+C:\Users\SnsvV\source\repos\Ekspedisi\Ekspedisi\bin\Debug\netcoreapp3.1\Ekspedisi.runtimeconfig.json
+C:\Users\SnsvV\source\repos\Ekspedisi\Ekspedisi\bin\Debug\netcoreapp3.1\Ekspedisi.runtimeconfig.dev.json
+C:\Users\SnsvV\source\repos\Ekspedisi\Ekspedisi\bin\Debug\netcoreapp3.1\Ekspedisi.dll
+C:\Users\SnsvV\source\repos\Ekspedisi\Ekspedisi\bin\Debug\netcoreapp3.1\Ekspedisi.pdb
+C:\Users\SnsvV\source\repos\Ekspedisi\Ekspedisi\obj\Debug\netcoreapp3.1\Ekspedisi.csproj.AssemblyReference.cache
+C:\Users\SnsvV\source\repos\Ekspedisi\Ekspedisi\obj\Debug\netcoreapp3.1\Ekspedisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnsvV\source\repos\Ekspedisi\Ekspedisi\obj\Debug\netcoreapp3.1\Ekspedisi.AssemblyInfoInputs.cache
+C:\Users\SnsvV\source\repos\Ekspedisi\Ekspedisi\obj\Debug\netcoreapp3.1\Ekspedisi.AssemblyInfo.cs
+C:\Users\SnsvV\source\repos\Ekspedisi\Ekspedisi\obj\Debug\netcoreapp3.1\Ekspedisi.csproj.CoreCompileInputs.cache
+C:\Users\SnsvV\source\repos\Ekspedisi\Ekspedisi\obj\Debug\netcoreapp3.1\Ekspedisi.dll
+C:\Users\SnsvV\source\repos\Ekspedisi\Ekspedisi\obj\Debug\netcoreapp3.1\Ekspedisi.pdb
+C:\Users\SnsvV\source\repos\Ekspedisi\Ekspedisi\obj\Debug\netcoreapp3.1\Ekspedisi.genruntimeconfig.cache
