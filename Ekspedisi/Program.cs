@@ -49,6 +49,7 @@ namespace Ekspedisi
                 barang.namabarang();
                 barang.classification();
                 sender.kota();
+                barang.jumlahbayar();
                 barang.jumlahbayar(diskon);
                 barang.Truk(nama_sender);
                 sender.pemisah();

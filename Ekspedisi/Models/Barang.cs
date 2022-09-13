@@ -76,10 +76,14 @@ namespace Ekspedisi.Models
           
         }
 
+        public void jumlahbayar()
+        {
+            Console.WriteLine("Jumlah biaya sebelum yang harus dibayarkan adalah " + harga());
+        }
 
         public void jumlahbayar(int diskon)
         {
-            Console.WriteLine("Jumlah biaya sebelum yang harus dibayarkan adalah " + harga());
+            
             Console.WriteLine("Jumlah biaya setelah mendapat diskon adalah " + harga(diskon));
         }
 
